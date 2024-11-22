@@ -1,10 +1,6 @@
 
 export default function() {
     return <div>
-
-
-
-        
-        hii Dashboard
+        hii Dashboard bro
     </div>
 }
